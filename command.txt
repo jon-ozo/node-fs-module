@@ -1,0 +1,1 @@
+rename file text.tx new_text.txt

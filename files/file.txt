@@ -1,0 +1,1 @@
+Let it be known that a file is just binary stored in a location on the hard drive. The understanding of this aids in the understanding of server side programming especially working with nodejs - buffers and fs.
