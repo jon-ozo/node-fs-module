@@ -1,1 +1,1 @@
-rename file text.tx new_text.txt
+add to file test.txt Replacing the previous data with this data.
